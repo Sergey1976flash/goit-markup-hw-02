@@ -1,7 +1,9 @@
 body {
-font-family: 'Roboto', sans-serif;
-color: #434455;
-background-color: #ffffff
+    width: 1440px;
+    height: 3300px;    
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #ffffff
 }
 .logo1 {
     color: var(--IRIS, #4D5AE5);
@@ -104,6 +106,15 @@ text-transform: capitalize;
 }
 .portfolio-text {
     color: var(--SLATE, #434455);
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    letter-spacing: 0.32px;
+}
+.footer {
+    color: var(--CLOUD, rgb(78, 11, 56));
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;

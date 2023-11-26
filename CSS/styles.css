@@ -54,6 +54,14 @@ text-transform: uppercase;
     line-height: 24px; /* 150% */
     letter-spacing: 0.32px;
 }
+.address .link {
+    color: var(--SLATE, #434455);
+}
+.address .link:hover 
+{  
+    color: #18ffff;
+}   
+
 .team-title {
 color: var(--NAVY-BLUE, #2E2F42);
 text-align: center;

@@ -5,7 +5,7 @@ body {
     color: #434455;
     background-color: #ffffff
 }
-.logo1 {
+.logo-one {
     color: var(--IRIS, #4D5AE5);
     font-family: Raleway;
     font-size: 18px;
@@ -15,7 +15,7 @@ body {
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
-.logo2 {
+.logo-two {
     color: var(--NAVY-BLUE, #2E2F42);
 font-family: Raleway;
 font-size: 18px;
@@ -25,7 +25,7 @@ line-height: 21px; /* 116.667% */
 letter-spacing: 0.54px;
 text-transform: uppercase;
 }
-.logo3 {
+.logo-three {
     color: var(--IRIS, #4D5AE5);
 font-family: Raleway;
 font-size: 18px;
@@ -35,7 +35,7 @@ line-height: 21px; /* 116.667% */
 letter-spacing: 0.54px;
 text-transform: uppercase;
 }
-.logo4 { 
+.logo-four { 
 color: var(--CLOUD, #F4F4FD);
 font-family: Raleway;
 font-size: 18px;
@@ -45,7 +45,7 @@ line-height: 21px; /* 116.667% */
 letter-spacing: 0.54px;
 text-transform: uppercase;
 }
-.address{
+.contacts {
     color: var(--SLATE, #434455);
     font-family: Roboto;
     font-size: 16px;
@@ -54,10 +54,10 @@ text-transform: uppercase;
     line-height: 24px; /* 150% */
     letter-spacing: 0.32px;
 }
-.address .link {
+.contacts .link {
     color: var(--SLATE, #434455);
 }
-.address .link:hover 
+.contacts .link:hover 
 {  
     color: #18ffff;
 }   
@@ -122,7 +122,7 @@ text-transform: capitalize;
     letter-spacing: 0.32px;
 }
 .footer {
-    color: var(--CLOUD, rgb(78, 11, 56));
+    color: red;
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;

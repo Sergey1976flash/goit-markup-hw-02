@@ -66,10 +66,10 @@ text-transform: uppercase;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.contacts .link {
+.contacts :hover {
 color:#434455;
 }
-.contacts .link:hover
+.contacts :focus
 {
   color: #434455;
 }

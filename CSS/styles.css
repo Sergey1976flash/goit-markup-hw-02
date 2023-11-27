@@ -1,10 +1,8 @@
 body {
-    width: 1440px;
-    height: 3300px;    
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
-    background-color: #ffffff
-}
+    background-color: #ffffff;
+  }
 .logo-one {
     color: #4D5AE5;
     font-family: Raleway;
@@ -26,7 +24,7 @@ letter-spacing: 0.54px;
 text-transform: uppercase;
 }
 .logo-three {
-    color: var(--IRIS, #4D5AE5);
+    color:#4D5AE5;
 font-family: Raleway;
 font-size: 18px;
 font-style: normal;
@@ -36,7 +34,7 @@ letter-spacing: 0.54px;
 text-transform: uppercase;
 }
 .logo-four { 
-color: var(--CLOUD, #F4F4FD);
+color:#F4F4FD;
 font-family: Raleway;
 font-size: 18px;
 font-style: normal;
@@ -46,7 +44,7 @@ letter-spacing: 0.54px;
 text-transform: uppercase;
 }
 .address {
-    color: var(--SLATE, #434455);
+    color:#434455;
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
@@ -55,15 +53,14 @@ text-transform: uppercase;
     letter-spacing: 0.32px;
 }
 .contacts .link {
-    color: var(--SLATE, #434455);
+    color:#434455;
 }
 .contacts .link:hover 
 {  
     color: #18ffff;
 }   
-
 .team-title {
-color: var(--NAVY-BLUE, #2E2F42);
+color:#2E2F42;
 text-align: center;
 font-family: Roboto;
 font-size: 36px;
@@ -73,7 +70,9 @@ line-height: 40px; /* 111.111% */
 letter-spacing: 0.72px;
 text-transform: capitalize;
 }
-.team-title-header{color: var(--NAVY-BLUE, #2E2F42);
+.team-title-header
+{
+    color:#2E2F42;
     text-align: none;
     font-family: Roboto;
     font-size: 20px;
@@ -83,7 +82,7 @@ text-transform: capitalize;
     letter-spacing: 0.4px;
 }
 .team-title-text {
-    color: var(--SLATE, #434455);
+    color:#434455;
     text-align: none;
     font-family: Roboto;
     font-size: 16px;
@@ -93,7 +92,7 @@ text-transform: capitalize;
     letter-spacing: 0.32px;
 }
 .portfolio-title {
-color: var(--NAVY-BLUE, #2E2F42);
+color:#2E2F42;
 text-align: center;
 font-family: Roboto;
 font-size: 36px;
@@ -104,7 +103,7 @@ letter-spacing: 0.72px;
 text-transform: capitalize;
 }
 .portfolio-list-header {
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: #2E2F42;
     font-family: Roboto;
     font-size: 20px;
     font-style: normal;
@@ -113,7 +112,7 @@ text-transform: capitalize;
     letter-spacing: 0.4px;
 }
 .portfolio-text {
-    color: var(--SLATE, #434455);
+    color: #434455;
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
@@ -122,7 +121,7 @@ text-transform: capitalize;
     letter-spacing: 0.32px;
 }
 .footer {
-    color: red;
+    color: #F4F4FD;
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;

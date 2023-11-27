@@ -58,7 +58,7 @@ text-transform: uppercase;
     color: #404bbf;
 }
 .contacts {
-    color:#434455;
+    color:#2E2F42;
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
@@ -66,10 +66,10 @@ text-transform: uppercase;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.contacts :hover {
+.contacts:hover {
 color:#434455;
 }
-.contacts :focus
+.contacts:active
 {
   color: #434455;
 }

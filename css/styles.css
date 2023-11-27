@@ -52,13 +52,12 @@ text-transform: uppercase;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.contacts .link {
-    color:#434455;
+.contacts-link:hover {
+  color: #404bbf;
 }
-.contacts .link:hover 
-{  
-    color: #18ffff;
-}   
+.contacts-link:focus {
+  color: #404bbf;
+}
 .team-title {
 color:#2E2F42;
 text-align: center;

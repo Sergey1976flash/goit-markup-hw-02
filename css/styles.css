@@ -43,6 +43,20 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 }
+.menu {
+    color:#2E2F42;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5; 
+    letter-spacing: 0.02em;
+}
+.menu:hover {
+    color: #404bbf;
+}
+.menu:active {
+    color: #404bbf;
+}
 .address {
     color:#434455;
     font-family: Roboto;
@@ -91,6 +105,21 @@ text-transform: capitalize;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+.button {
+    color:#FFF;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+}
+.button :hover {
+    background: #4D5AE5;
+    color: #404bbf
+}
+.button :focus{
+    color:#4D5AE5}
 .portfolio-title {
 color:#2E2F42;
 text-align: center;

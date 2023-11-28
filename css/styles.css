@@ -118,8 +118,8 @@ text-transform: capitalize;
     background-color:#4D5AE5;
     cursor: pointer;
 }
-.button :hover,
-.button :focus {
+.button:hover,
+.button:focus {
     color: #404BBF;
 }
 .portfolio-title {

@@ -4,12 +4,10 @@ body {
     background-color: #FFFFFF;
   }
   .navigation {
-    display: flex;
     width: 1440px;
     height: 72px;
-    justify-content: center;
-    align-items: center;
     flex-shrink: 0;
+    background:#FFF;
 }
 .logo-one {
     color: #4D5AE5;

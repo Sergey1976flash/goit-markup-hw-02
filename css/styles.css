@@ -6,8 +6,7 @@ body {
   .navigation {
     width: 1440px;
     height: 72px;
-    flex-shrink: 0;
-    background:#FFF;
+    background-color:#FFF;
 }
 .logo-one {
     color: #4D5AE5;
@@ -76,7 +75,7 @@ text-transform: uppercase;
 color:#404BBF;
 }
 .team {
-    background:#F4F4FD;
+    background-color:#F4F4FD;
 }
 .team-title {
 color:#2E2F42;
@@ -119,7 +118,7 @@ text-transform: capitalize;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    background:#4D5AE5;
+    background-color:#4D5AE5;
     cursor: pointer;
 }
 .button :hover,
@@ -187,7 +186,7 @@ background: #2E2F42;
     letter-spacing: 0.02em;
 }
 .footer {
-background:#2E2F42;
+background-color:#2E2F42;
 }
 .footer-text {
     color: #F4F4FD;

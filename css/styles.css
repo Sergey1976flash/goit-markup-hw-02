@@ -2,7 +2,7 @@ body {
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
-  }
+}
 .logo-one {
     color: #4D5AE5;
     font-family:"Raleway", sans-serif;
@@ -55,7 +55,6 @@ text-transform: uppercase;
 .menu:focus {
     color: #404BBF;
 }
-
 .contacts {
     color:#434455;
     font-family: Roboto;

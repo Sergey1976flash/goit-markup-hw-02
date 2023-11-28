@@ -52,7 +52,7 @@ text-transform: uppercase;
     letter-spacing: 0.02em;
 }
 .menu:hover,
-menu:focus {
+.menu:focus {
     color: #404bbf;
 }
 
